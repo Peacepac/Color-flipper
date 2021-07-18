@@ -2,4 +2,4 @@
 
 ## MY PROJECT HOSTED LINK
 
-[PREVIEW LINK]()
+[PREVIEW  HOST LINK](https://peacepac.github.io/Color-flipper/)
